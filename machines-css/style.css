@@ -8,7 +8,9 @@
   display: none !important;
   }
 
-
+body {
+  background-image: linear-gradient(to bottom right, #ffffff, ##1b494c);
+}
 
 h1 {
     font-family: 'Rubik', sans-serif;

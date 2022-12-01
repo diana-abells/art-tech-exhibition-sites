@@ -4,14 +4,9 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&family=Rubik:wght@400;600&display=swap');
 
-  .site-header, .entry-header, #osu-branding, .site-footer, .u-osu-powered{
+#osu-branding, .site-footer, .u-osu-powered{
   display: none !important;
   }
-
-body {
-  
-}
-
 
 
 
@@ -41,20 +36,20 @@ body p a {
 }
 
 body p a:link {
-    color: #ed35a8;
+    color: #000000;
     text-decoration: none;
 }
 body p a:visited {
     text-decoration: none;
-      color: #ed35a8;
+      color: #000000;
 }
 body p a:hover {
     text-decoration: underline;
-   color: #ed35a8;
+   color: #000000;
 }
 body p a:active {
     text-decoration: none;
-   color: #ed35a8;
+   color: #000000;
 }
 
 body h3 a {
@@ -114,4 +109,5 @@ body p em {
     font-family: 'Open Sans', sans-serif;
     font-style: italic;	
 }
+
 
